@@ -26,26 +26,6 @@ h1{
 }
 
 
-<<<<<<< HEAD
-.button-right{
-color: white;
-height: 60px;
-width: 250px;
-border-color: white;
-}
-.left-button{
-background-color: rgb(232, 102, 15);
-color: white;
-height: 60px;
-width: 200px;
-border-color: rgb(232, 102, 15);
-}
-.left-button a{
-    text-decoration: none;
-    color: #fff;
-}
-/* <!-- BOTTOM SECTION (Emmanuel) -->  */
-=======
 
 
 
@@ -72,4 +52,3 @@ border-color: rgb(232, 102, 15);
     font-size: 30px;
     color: rgb(64, 64, 244);
 }
->>>>>>> d71d48f6d47b00fa76e7088a26edbf5e9e94d4bd
