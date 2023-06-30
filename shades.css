@@ -26,6 +26,7 @@ h1{
 }
 
 
+<<<<<<< HEAD
 .button-right{
 color: white;
 height: 60px;
@@ -44,3 +45,31 @@ border-color: rgb(232, 102, 15);
     color: #fff;
 }
 /* <!-- BOTTOM SECTION (Emmanuel) -->  */
+=======
+
+
+
+/* <!-- BOTTOM SECTION (Emmanuel) -->  */
+.bottom-section {
+ display: flex;
+ gap: 160px;
+ padding-left: 40px;
+ padding-right: 40px;
+ justify-content: center;
+}
+
+.fa-pencil {
+    font-size: 30px;
+    color: rgb(64, 64, 244);
+}
+
+.fa-layer-group {
+    font-size: 30px;
+    color: rgb(64, 64, 244);
+}
+
+.fa-file {
+    font-size: 30px;
+    color: rgb(64, 64, 244);
+}
+>>>>>>> d71d48f6d47b00fa76e7088a26edbf5e9e94d4bd
