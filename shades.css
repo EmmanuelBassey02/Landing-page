@@ -1,5 +1,39 @@
 /* <!-- NAV BAR (Mitchel) --> */
-
+a{
+    text-decoration: none;
+    color: black;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+    padding-top: 9px;
+}
+nav{
+    display: flex;
+}
+.first{
+    display: flex;
+    gap: 20px;
+    /* border: 1px solid black; */
+    width: 200px;
+}
+.first i{
+    padding-top: 22px;
+    padding-left: 20px;
+}
+button{
+    display: flex;
+    gap:50px;
+    margin-left: 300px;
+    margin-top: 29px;
+    background-color: skyblue;
+    color: blue;
+    border-color: blue;
+}
+body{
+    background-color: skyblue;
+}
 
 
 
