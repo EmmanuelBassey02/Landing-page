@@ -4,9 +4,43 @@
 
 
 /*  <!-- MIDDLE SECTION (Berechiah) --> */
+.body{
+    /* background-color: skyblue; */
+   text-align: center;
+}
+.top-small{
+    padding-top: 10px;
+}
+
+small{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 8px;
+    text-decoration: solid;
+}
+
+h1{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-size: 55px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
 
-
-
-
+.button-right{
+color: white;
+height: 60px;
+width: 250px;
+border-color: white;
+}
+.left-button{
+background-color: rgb(232, 102, 15);
+color: white;
+height: 60px;
+width: 200px;
+border-color: rgb(232, 102, 15);
+}
+.left-button a{
+    text-decoration: none;
+    color: #fff;
+}
 /* <!-- BOTTOM SECTION (Emmanuel) -->  */
