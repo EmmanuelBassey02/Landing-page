@@ -44,3 +44,25 @@ body{
 
 
 /* <!-- BOTTOM SECTION (Emmanuel) -->  */
+.bottom-section {
+ display: flex;
+ gap: 160px;
+ padding-left: 40px;
+ padding-right: 40px;
+ justify-content: center;
+}
+
+.fa-pencil {
+    font-size: 30px;
+    color: rgb(64, 64, 244);
+}
+
+.fa-layer-group {
+    font-size: 30px;
+    color: rgb(64, 64, 244);
+}
+
+.fa-file {
+    font-size: 30px;
+    color: rgb(64, 64, 244);
+}
