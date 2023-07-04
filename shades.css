@@ -1,4 +1,11 @@
 /* <!-- NAV BAR (Mitchel) --> */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 a{
     text-decoration: none;
     color: black;
@@ -6,42 +13,43 @@ a{
 ul{
     list-style-type: none;
     display: flex;
-    gap: 50px;
-    padding-top: 9px;
+    gap: 40px;
+   
 }
 nav{
     display: flex;
+    gap: 230px;
+    height: 55px;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-right: 20px;
 }
+
 .first{
     display: flex;
-    gap: 20px;
-    /* border: 1px solid black; */
-    width: 200px;
+    gap: 10px;
 }
-.first i{
-    padding-top: 22px;
-    padding-left: 20px;
-}
-button{
-    display: flex;
-    gap:50px;
-    margin-left: 300px;
-    margin-top: 29px;
-    background-color: skyblue;
+
+    
+.get-started {
     color: blue;
     border-color: blue;
+    width: 80px;
+    height: 30px;
+    background-color: rgb(61, 182, 229);
 }
+
+
 body{
     background-color: skyblue;
+    text-align: center;
 }
 
 
 
 /*  <!-- MIDDLE SECTION (Berechiah) --> */
-.body{
-    /* background-color: skyblue; */
-   text-align: center;
-}
+
+  
 .top-small{
     padding-top: 10px;
 }
@@ -59,6 +67,26 @@ h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.suscribe {
+    width: 90px;
+    background-color: rgb(61, 182, 229);
+    border: 2px solid blue;
+    
+}
+
+.button-textbox {
+    display: flex;
+    gap: 0px;
+    justify-content: center;
+}
+
+.middle {
+    margin-top: 70px;
+    text-align: center;
+    width: 600px;
+    margin: auto;
+    margin-top: 80px;
+}
 
 
 
@@ -66,10 +94,11 @@ h1{
 /* <!-- BOTTOM SECTION (Emmanuel) -->  */
 .bottom-section {
  display: flex;
- gap: 160px;
+ gap: 100px;
  padding-left: 40px;
  padding-right: 40px;
  justify-content: center;
+ margin-top: 70px;
 }
 
 .fa-pencil {
@@ -86,3 +115,36 @@ h1{
     font-size: 30px;
     color: rgb(64, 64, 244);
 }
+
+.pencil {
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;
+text-align: left;
+}
+
+.layers {
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;
+text-align: left;
+}
+
+.newpage {
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;
+text-align: left;
+}
+
+
+
+
+
+
+
+
+
